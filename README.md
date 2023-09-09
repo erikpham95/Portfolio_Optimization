@@ -1,4 +1,4 @@
-# Portfolio_Optimization
+# Portfolio Optimization
 Finding optimal portfolio asset allocation based of different criteria
 
 ### 1.  Concepts
